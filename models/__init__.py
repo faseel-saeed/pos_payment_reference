@@ -1,2 +1,8 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+
+
+from . import account_move_line
+from . import pos_session
+from . import pos_payment
+from . import account_payment
+
